@@ -22,4 +22,15 @@ This tool simplifies job application tracking by automatically creating structur
 3. **Save**: Resumes are stored in a dedicated folder like:  
    `D:\Applications and Resumes\[folder_name]\[resume_filename.pdf]`  
 
+## Why Use This?  
+- 🗂️ **Never Lose Resumes**: Avoid duplicate filenames or overwriting files.  
+- 🔍 **Quick Retrieval**: Instantly locate resumes sent to specific companies.  
+- 🚫 **No More Manual Folders**: Automates folder creation with standardized naming.
+
+## Installation
+This tool works in windows only. Create a folder in "D" drive called "Applications and Resumes". Download the zip. Unzip it and just run the exe.
+
+
 ### Example Output  
+![image](https://github.com/user-attachments/assets/3e28cca6-5b12-4a62-896f-1235adaef552)
+![image](https://github.com/user-attachments/assets/651e90e7-a497-445c-af86-3d1fa4191658)
